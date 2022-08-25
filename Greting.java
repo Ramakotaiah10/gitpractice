@@ -10,10 +10,5 @@ System.out.println("Hi "+name+" Good Night ");
 sc.close();
 System.gc();
 }
-} 
-System.out.println("Hi "+name+" Good Night ");    
-sc.close();
-System.gc();
-}
 }
 

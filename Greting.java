@@ -5,6 +5,7 @@ class Greting{
 System.out.print("Please Enter your name please : ");
 String name=sc.nextLine();
 System.out.println("Hi "+name+" Good Night ");
+   System.out.println("Good Night ");     
 sc.close();
 System.gc();
 }
